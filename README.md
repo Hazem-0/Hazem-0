@@ -58,6 +58,6 @@
 
 <p align="left">
 📧 Email: <a href="mailto:hazemabdelraouf6@gmail.com">hazemabdelraouf6@gmail.com</a> <br>
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/hazem-abdelraouf-7399a7288">hazem-abdelraouf</a> <br>
+🔗 LinkedIn: <a href="www.linkedin.com/in/hazem-abdelraouf">hazem-abdelraouf</a> <br>
 💻 GitHub: <a href="https://github.com/Hazem-0">Hazem-0</a>
 </p>
