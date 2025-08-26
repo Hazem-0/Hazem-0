@@ -12,7 +12,7 @@
 
 <p align="left">
 📚 I'm currently learning  mobile development using flutter <br>
-🎯 Goals: To build innovative mobile apps using Flutter, and grow into a leading mobile solutions architect 🚀<br>
+🎯 Goals: To build innovative mobile apps using Flutter, and grow into a leading mobile solutions architect <br>
 </p>
 
 ###
