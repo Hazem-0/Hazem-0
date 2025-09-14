@@ -17,6 +17,38 @@
 
 ###
 
+
+<h2 align="left">Contact</h2>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/hazem-abdelraouf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+         width="52" 
+         height="40" 
+         alt="linkedin logo"
+         style="margin-right: 30px;" />
+  </a>
+
+  <a href="mailto:hazemabdelraouf6@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+         width="52" 
+         height="40" 
+         alt="gmail logo"
+         style="margin-right: 30px;" />
+  </a>
+
+  <a href="https://wa.me/201013608519" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+         width="52" 
+         height="40" 
+         alt="whatsapp logo"
+         style="margin-right: 30px;" />
+  </a>
+</div>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -51,12 +83,3 @@
 
 ###
 
-<h2 align="left">Contact</h2>
-
-###
-
-<p align="left">
-📧 Email: <a href="mailto:hazemabdelraouf6@gmail.com">hazemabdelraouf6@gmail.com</a> <br>
-🔗 LinkedIn:  <a href="https://www.linkedin.com/in/hazem-abdelraouf">hazem-abdelraouf</a> <br>
-💻 GitHub: <a href="https://github.com/Hazem-0">Hazem-0</a>
-</p>
