@@ -38,13 +38,7 @@
          style="margin-right: 30px;" />
   </a>
 
-  <a href="https://wa.me/201013608519" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
-         width="52" 
-         height="40" 
-         alt="whatsapp logo"
-         style="margin-right: 30px;" />
-  </a>
+  
 </div>
 
 ###
