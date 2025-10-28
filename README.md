@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <font color="#f79646">Hazem Abdelraouf</font> and I'm a Flutter developer from Egypt <p>
+<p align="left">My name is <font color="#f79646">Hazem Abdelraouf</font> and I'm a developer from Egypt <p>
 
 ###
 
@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-📚 I'm currently learning  mobile development using flutter <br>
-🎯 Goals: To build innovative mobile apps using Flutter, and grow into a leading mobile solutions architect <br>
+📚 I'm currently learning  mobile development <br>
+🎯 Goals: To build innovative mobile apps , and grow into a leading mobile solutions architect <br>
 </p>
 
 ###
