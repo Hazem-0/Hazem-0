@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Hazem Abdelraouf</h1>
 
 # 💫 About Me:
-📱 **Specialization:** Native Android (Kotlin/Java) & Cross-Platform (Flutter) Developer from Egypt<br>
+📱 **Specialization:** Native Android (Kotlin/Java) & Cross-Platform (Flutter) Developer from Egypt <br>
 📚 **Currently learning:** Mobile Security & Advanced Android Development <br>
 🎯 **Goals:** Build scalable, innovative mobile apps and grow into a leading mobile solutions architect
 
@@ -19,7 +19,24 @@
 - [**🛒 Nile E-Commerce**](https://github.com/Hazem-0/Nile-e-Commerce-) - Cross-platform mobile storefront (Flutter, Firebase).
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Hazem-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Hazem-0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hazem-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Hazem-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hazem-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hazem-0&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem-0/Hazem-0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem-0/Hazem-0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hazem-0/Hazem-0/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
