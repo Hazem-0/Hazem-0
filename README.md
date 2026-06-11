@@ -15,6 +15,7 @@
 - [**🌡️ TempSphere**](https://github.com/Hazem-0/TempSphere) - Modern Android weather application (Kotlin, Jetpack Compose, MVVM).
 - [**🍕 Piatto**](https://github.com/Hazem-0/Piatto) - Comprehensive Android meal planner & recipe discovery app (Java, Room, RxJava3, Retrofit). Features Clean Architecture and Firebase Auth.
 - [**🚚 Cargo Driver**](https://github.com/Cargo-Org/cargo-driver) - Professional cargo delivery management app.
+- [**🌤️ WeatherLens**](https://github.com/your-username/WeatherLens) - iOS weather forecast app built with SwiftUI, MVVM, and Clean Architecture. Features real-time weather, hourly & daily forecasts, saved locations, and dynamic UI themes.
 - [**⚽ Sportix**](https://github.com/Hazem-0/Sportix) - Modern iOS Sports App built with Swift and MVP architecture.
 - [**🛒 Nile E-Commerce**](https://github.com/Hazem-0/Nile-e-Commerce-) - Cross-platform mobile storefront (Flutter, Firebase).
 
