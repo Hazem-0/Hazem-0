@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Hazem Abdelraouf</h1>
 
 # 💫 About Me:
-📱 **Specialization:** Native Android (Kotlin/Java) & Cross-Platform (Flutter) Developer from Egypt <br>
+📱 **Specialization:** Native Android (Kotlin/Java) & Cross-Platform (KMP & Flutter) Developer from Egypt <br>
 📚 **Currently learning:** Mobile Security & Advanced Android Development <br>
 🎯 **Goals:** Build scalable, innovative mobile apps and grow into a leading mobile solutions architect
 
