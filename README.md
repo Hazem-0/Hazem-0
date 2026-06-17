@@ -12,11 +12,11 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📦 Featured Projects:
-- [**🌡️ TempSphere**](https://github.com/Hazem-0/TempSphere) - Modern Android weather application (Kotlin, Jetpack Compose, MVVM).
-- [**🍕 Piatto**](https://github.com/Hazem-0/Piatto) - Comprehensive Android meal planner & recipe discovery app (Java, Room, RxJava3, Retrofit). Features Clean Architecture and Firebase Auth.
-- [**🚚 Cargo Driver**](https://github.com/Cargo-Org/cargo-driver) - Professional cargo delivery management app.
-- [**🌤️ WeatherLens**](https://github.com/your-username/WeatherLens) - iOS weather forecast app built with SwiftUI, MVVM, and Clean Architecture. Features real-time weather, hourly & daily forecasts, saved locations, and dynamic UI themes.
-- [**⚽ Sportix**](https://github.com/Hazem-0/Sportix) - Modern iOS Sports App built with Swift and MVP architecture.
+- [**🌡️ TempSphere**](https://github.com/Hazem-0/TempSphere) - Modern Android weather application (Kotlin, Jetpack Compose, Coroutines ,MVVM).
+- [**🍕 Piatto**](https://github.com/Hazem-0/Piatto) - Android meal planner app (Java, Room, RxJava, Retrofit , MVP, Clean Architecture, Firebase ).
+- [**🚚 Cargo Driver**](https://github.com/Cargo-Org/cargo-driver) - Professional cargo delivery management app (CMP, Kotlin, Coroutines, Ktor).
+- 🌤️ WeatherLens – iOS weather app (SwiftUI, MVVM, Clean Architecture) with real-time and forecast features.
+- [**⚽ Sportix**](https://github.com/Hazem-0/Sportix) - Modern iOS Sports App built with (Swift, CoreData, Alamofire, MVVM, Clean Architecture).
 - [**🛒 Nile E-Commerce**](https://github.com/Hazem-0/Nile-e-Commerce-) - Cross-platform mobile storefront (Flutter, Firebase).
 
 # 📊 GitHub Stats:
